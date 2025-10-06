@@ -30,3 +30,5 @@ here is a showcase if you cant play the Game (sry):
   https://youtu.be/Xa2eeXwjPBs 
 
 THX FOR READING XD
+
+I dont have access to my repo idk how here is the new repo wit hthe bug fixes:https://github.com/lostlp09/coinclicker_gambling_fixed
